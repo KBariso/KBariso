@@ -29,6 +29,28 @@
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbariso&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/kbariso/github-readme-stats)
+
+
+
+# Projects
+
+## [Handfraze](https://handfraze.herokuapp.com/)
+Handfraze is a clone of Handspeak, a resource to the American Sign Language (ASL) dictionary. Like Handspeak, Handfraze allows a resource for individuals who wish to learn basics of ASL providing basic phrases in video form from a certified national interpreter.
+
+## [Potionable](https://potionable.herokuapp.com/)
+Instructable fantasy themed clone that inspires users to create a unique "potion" or any fantasy themed recipe. Users are able to explore various recipes throughout the site.
+
+## [Pixelnote](https://pixelnote.herokuapp.com/)
+Pixelnote is an Evernote clone, that allows users to create personal notes as well as store them in notebooks, designed as an homage to the 8-bit video game style.
+
+## [Do I Need It](https://do-i-need-it.herokuapp.com/)
+Do I Need It?, a Remember The Milk clone, is an application that allows users to create wishlists to compile a list of products that they want/"need".
+
+
+
+
+
+
 <!--
 
 ## Languages and Tools

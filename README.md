@@ -36,7 +36,7 @@
 # Projects
 
 ## [Handfraze](https://handfraze.herokuapp.com/)
-Handfraze is a clone of Handspeak, a resource to the American Sign Language (ASL) dictionary. Like Handspeak, Handfraze allows a resource for individuals who wish to learn basics of ASL providing basic phrases in video form from a certified national interpreter.
+[Handfraze](https://github.com/KBariso/Handfraze) is a clone of Handspeak, a resource to the American Sign Language (ASL) dictionary. Like Handspeak, Handfraze allows a resource for individuals who wish to learn basics of ASL providing basic phrases in video form from a certified national interpreter.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -51,7 +51,7 @@ Handfraze is a clone of Handspeak, a resource to the American Sign Language (ASL
 
 
 ## [Potionable](https://potionable.herokuapp.com/)
-Instructable fantasy themed clone that inspires users to create a unique "potion" or any fantasy themed recipe. Users are able to explore various recipes throughout the site.
+[Instructable](https://github.com/KBariso/Potionable) fantasy themed clone that inspires users to create a unique "potion" or any fantasy themed recipe. Users are able to explore various recipes throughout the site.
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -67,7 +67,7 @@ Instructable fantasy themed clone that inspires users to create a unique "potion
 
 
 ## [Pixelnote](https://pixelnote.herokuapp.com/)
-Pixelnote is an Evernote clone, that allows users to create personal notes as well as store them in notebooks, designed as an homage to the 8-bit video game style.
+[Pixelnote](https://github.com/KBariso/Pixelnote) is an Evernote clone, that allows users to create personal notes as well as store them in notebooks, designed as an homage to the 8-bit video game style.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -78,7 +78,7 @@ Pixelnote is an Evernote clone, that allows users to create personal notes as we
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## [Do I Need It](https://do-i-need-it.herokuapp.com/)
-Do I Need It?, a Remember The Milk clone, is an application that allows users to create wishlists to compile a list of products that they want/"need".
+[Do I Need It](https://github.com/KBariso/DoINeedIt)?, a Remember The Milk clone, is an application that allows users to create wishlists to compile a list of products that they want/"need".
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

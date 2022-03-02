@@ -10,7 +10,8 @@
 - 🏠 Chicago IL
 - 📜 Graduated from Roosevelt University with a BS degree in Hospitality Management now turned Software Engineer! 
 - 😄 Pronouns: He/Him/His
-- 🔭 Currently, constantly debugging 
+- 🔭 Currently debugging 
+   - Always learning
 
 ## 📫 How to reach me: 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/kielvin-bariso/)

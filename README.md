@@ -1,6 +1,6 @@
 # Kielvin Bariso 👋
 
-## 👨‍💻 A little about me!
+## 👨‍💻 A little about me
 - 🏠 Chicago IL
 - 📜 Graduated from Roosevelt University with a BS degree in Hospitality Management now turned Software Engineer! 
 - 😄 Pronouns: He/Him/His

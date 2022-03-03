@@ -2,9 +2,9 @@
 
 <h1 align="center"> Kielvin Bariso 👋 </h1>
 
-<!-- <div align="center" width="100%" height="50%">
+<div align="center" width="100%" height="50%">
  <img src="https://im2.ezgif.com/tmp/ezgif-2-0ca0c8528d.gif">
-</div> -->
+</div>
 
 ## 👨‍💻 A little about me
 - 🏠 Chicago IL

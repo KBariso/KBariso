@@ -2,10 +2,12 @@
 
 <h1 align="center"> Kielvin Bariso 👋 </h1>
 
-<!-- <div align="center" width="100%" height="50%">
- <img src="https://im2.ezgif.com/tmp/ezgif-2-0ca0c8528d.gif">
-</div> -->
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/86331220/156666573-3c6febaf-da3b-4e3a-9edf-8222c759f108.gif)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/86331220/156666573-3c6febaf-da3b-4e3a-9edf-8222c759f108.gif"></img>
+</div>
+
+
 
 
 

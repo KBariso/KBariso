@@ -14,7 +14,7 @@
 
 ## 👨‍💻 A little about me
 - 🏠 Chicago IL
-- 📜 Check out my resume [here!](https://kbariso.github.io/)
+- 📜 Check out my portfolio [here!](https://kbariso.github.io/)
 - 🏫 Graduated from Roosevelt University
 - 😄 Pronouns: He/Him/His
 - 🔭 Currently debugging 

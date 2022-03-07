@@ -14,7 +14,8 @@
 
 ## 👨‍💻 A little about me
 - 🏠 Chicago IL
-- 📜 Graduated from Roosevelt University with a BS degree in Hospitality Management now turned Software Engineer! 
+- 📜 Check out my resume [here!](https://kbariso.github.io/)
+- 🏫 Graduated from Roosevelt University with a BS degree in Hospitality Management now turned Software Engineer! 
 - 😄 Pronouns: He/Him/His
 - 🔭 Currently debugging 
    - Always learning
